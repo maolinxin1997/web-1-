@@ -1,0 +1,178 @@
+*{
+	font-size: 12px;
+	padding: 0;
+	font-family: '宋体';
+	list-style-type: none;
+	text-decoration: none;
+	color: white;
+}
+body{
+	background-image: url(../images/bg.jpg);
+		text-align: center;
+
+}
+a:hover{text-decoration: underline;}
+#header{
+	height: 205px;
+	background-image: url(../images/shou.jpg);
+	background-position: center top;
+	background-repeat: no-repeat;
+}
+#banner{
+	width: 1300px;
+	height:129px;
+	padding-top: 15px;
+}
+.logo{	
+	position: absolute;left: 305px;top: 58px;
+	width: 80px;
+	height: 80px;
+}
+h1{font-size: 50px;
+color: yellow;
+font-family: '楷体';
+}
+.nav_body{
+	width: 1300px;
+	color: #fff;
+	margin-top: 20px;
+}
+.nav_content{
+	width: 470px;
+	height: 40px;
+	font-weight: bold;
+	padding-left: 310px;
+	float: left;
+}
+.daoh{
+	color: #fff;
+	padding-left:13px;
+	padding-right: 13px;
+	height: 12px;
+	float: left;
+	border-left: 2px solid;
+	border-color: #fff;
+	font-size: 12px;
+}
+.nav_search{
+	width: 190px;
+	height: 40px;
+	float: left;
+}
+#search{
+	width: 140px;
+	height: 21px;
+	background-color: #f8f5ee;
+	float: left;
+	margin-top: 7px;
+}
+#button{
+	width: 44px;
+	height: 24px;
+	background-color: #000;
+	color: #fff;
+	border:1px solid #f8f5ee;
+	margin-top: 8px;
+	float: left;
+}
+#content{
+	width: 750px;
+	clear: both;
+	margin: 0 auto;
+}
+.mbx{
+	margin-top: 20px;
+	text-align: left;
+}
+.le{
+	margin-top: 20px;
+	width: 200px;
+	float: left;
+}
+.le1{
+	height: 230px;
+	line-height: 25px;
+	font-size: 20px;
+	border: 2px solid black;
+	font-weight: bolder;
+}
+.xkxw{padding-top: 10px;}
+li.zi1:hover{
+	background-image: url(../images/shou.jpg);
+}
+.le2{
+	margin-top: 20px;
+	height: 230px;
+	line-height: 25px;
+	font-size: 20px;
+	border: 2px solid black;
+}
+.ri{
+	margin-left: 20px;
+	margin-top: 20px;
+	width: 500px;
+	height: 485px;
+	float: left;
+	border:2px solid black;
+}
+.a1{
+	padding-left: 20px;
+	text-align: left;
+	line-height: 2em;
+}
+span{
+	float: right;
+	margin-right: 10px;
+}
+.ye{
+	width: 500px;
+	padding-left: 50px;
+}
+.num1{
+	width: 24px;
+	height: 20px;
+	padding: 1px;
+	margin: 2px;
+	float: left;
+}
+.num2{
+	width: 24px;
+	height: 20px;
+	padding-top: 8px;
+	float: left;
+}
+.num{
+	width: 24px;
+	height: 20px;
+	padding: 1px;
+	margin: 2px;
+	border: 1px solid;
+	float: left;
+}
+li.num:hover{
+	background-image: url(../images/shou.jpg);
+}
+
+.footer{
+	width: 750px;
+	margin:  0 auto;
+	height: 105px;
+	clear: both;
+	background-image: url(../images/foot.jpg);
+}
+.sh{padding-left: 80px}
+.wen4{
+	float: left;
+	margin-top: 20px;
+	padding-left: 13px;
+	padding-right: 13px;
+	height: 12px;
+	border-left: 2px solid;
+	font-size: 12px;
+	color: white;
+}
+.wei{
+	padding: 5px;
+	color: white;
+}
+.lian{color: white;}
